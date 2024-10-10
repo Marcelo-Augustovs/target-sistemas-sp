@@ -28,11 +28,11 @@
 • ES – R$27.165,48
 • Outros – R$19.849,53
 
-Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora. 
+   Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora. 
 
-[Resposta da questão 4](https://github.com/Marcelo-Augustovs/target-sistemas-sp/blob/main/src/main/java/com/marcelo/target_sistemas_sp/exercicio4/Main.java)
+   [Resposta da questão 4](https://github.com/Marcelo-Augustovs/target-sistemas-sp/blob/main/src/main/java/com/marcelo/target_sistemas_sp/exercicio4/Main.java)
 
 
 5) Escreva um programa que inverta os caracteres de um string.
    
-[Resposta da questão 5](https://github.com/Marcelo-Augustovs/target-sistemas-sp/tree/main/src/main/java/com/marcelo/target_sistemas_sp/exercicio5)
+   [Resposta da questão 5](https://github.com/Marcelo-Augustovs/target-sistemas-sp/tree/main/src/main/java/com/marcelo/target_sistemas_sp/exercicio5)
